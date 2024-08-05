@@ -5,3 +5,5 @@
 * WiFi_connector (requires `<ESP8266WiFi.h>`) (**Only for ESP**)
 * Web_server (requires `<ESP8266WebServer.h>`) (**Only for ESP**)
 * Access_point (requires `<ESP8266WiFi.h>`) (**Only for ESP**)
+* Waveshare_LCD1602_I2C - for Waveshare LCD1602 I2C Blue/White (**NOT RGB**) display(reqires `<Wire.h>` and `<stdint.h>`)<br><br>
+![image](https://github.com/user-attachments/assets/f02189c8-c5fa-42f3-ae4f-41bb3788e953)
