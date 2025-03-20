@@ -1,4 +1,4 @@
-# This is a set of libraries for ESP 8266 or Arduino
+# Set of libraries for ESP 8266 or Arduino
 **Requires Arduino libraries**
 * NV_24c32 - Non volatile memory 24c32 (reqires `<Wire.h>` and `<stdint.h>`)<br>
 ![image](https://github.com/user-attachments/assets/c8bb12ae-6427-410a-91c8-0bce404cf4d1)
